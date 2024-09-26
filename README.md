@@ -1,12 +1,6 @@
-1. "WebScrapingCars24.ipynb" contains the entire code for scraping the contents from Cars24.com for Honda model in Mumbai location.
-   Additionally, it contains the code for analysing the scraping data
+1. "WebScrapingCars24.ipynb" contains the entire code for scraping the contents from Cars24.com for the Honda model in the Mumbai location.
+   Additionally, it contains the code for analyzing the scraping data
 
-2. After scarping the data from the specified website, we store these data in a csv file, i.e. "Cars24_Honda_Mumbai.csv".
+2. After scraping the data from the specified website, we store these data in a CSV file, i.e. "Cars24_Honda_Mumbai.csv".
 
-3. Contributers to the code:
-    (a) Rajath B A
-    (b) Rhushikesh Sangle
-    (c) Shalinee Bharat
-    (d) Sandeep Verma
-    (e) Srikanta Pal
-    (f) Rashhi Gupta
+3. Contributors to the code: Rajath B A, Rhushikesh Sangle, Shalinee Bharat, Sandeep Verma, Srikanta Pal, Rashhi Gupta
